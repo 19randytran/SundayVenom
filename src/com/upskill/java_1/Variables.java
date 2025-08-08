@@ -34,6 +34,7 @@ public class Variables {
 	public void CT(){
 		String city = "Stanford";   	// Local variable - variables declared in methods
 		String county = "Fairfield";
+		System.out.println(city);
 	}
 	
 }
