@@ -6,8 +6,8 @@ public class DataTypes {
 		// TODO Auto-generated method stub
 		System.out.println("Hellow World, this is Randy");
 		
-		int a = 5;
-		int b = 8;
+		int a = 50;
+		int b = 80;
 		
 		int c = a+b;
 		
